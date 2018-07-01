@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">quiz app</string>
+    <string name="question1">can a server\'s backend be written in Javascript?</string>
+    <string name="question2">Which of THESE are wrong about JavaScript\'s relation to Java?</string>
+    <string name="question3">What is EcmaScript?</string>
+    <string name="question4">false and true || true</string>
+    <string name="question5">{5:1}[2+3]</string>
+    <string name="question6">true || true and false</string>
+
+    <string name="option11">no</string>
+    <string name="option12">depending on the operating system</string>
+    <string name="option13">yes</string>
+
+    <string name="option21">They are basically the same</string>
+    <string name="option22">They are not related</string>
+    <string name="option23">They are both Scripting Languages</string>
+
+    <string name="option31">a standard that drives JavaScript development</string>
+    <string name="option32">a Java script extension</string>
+    <string name="option33">a JavaScript dialect</string>
+
+    <string name="option41">false</string>
+    <string name="option42">true</string>
+    <string name="option43">1</string>
+
+    <string name="option51">1</string>
+    <string name="option52">SyntaxError</string>
+    <string name="option53">undefined</string>
+
+    <string name="option61">true</string>
+    <string name="option62">false</string>
+    <string name="option63">1</string>
+
+    <string name="question7">Mention a type of Scripting Language that starts with JA and ends with PT?</string>
+    <string name="answer">Javascript</string>
+
+    <string name="showAnswer">Answers</string>
+
+</resources>

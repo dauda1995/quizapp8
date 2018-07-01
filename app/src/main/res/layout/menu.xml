@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#678"
+    android:orientation="vertical"
+
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:src="@drawable/intropic" />
+
+    <Button
+        android:id="@+id/beginner_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Beginner"
+        android:text="Beginner" />
+
+    <Button
+        android:id="@+id/intermediate_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Intermediate"
+        android:text="Intermediate" />
+
+    <Button
+        android:id="@+id/expert_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Expert"
+        android:text="Expert" />
+
+
+
+</LinearLayout>
